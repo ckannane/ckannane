@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @ckannane
-- 👀 I’m interested in Design , video editing , photoshooting , of cousre coding , C, C++, phython, javascript, hmtl, css, react
-- 🌱 I’m currently learning nextjs
-- 💞️ I’m looking to collaborate
+🎨 Designer by eye, Developer by logic  
+
+I design in Figma, build in React, and bring ideas to life with motion.  
+From pixels to production — I handle the full experience.  
+
+⚡ UI/UX • Motion Design • Web Development  
+🌍 Building digital experiences that feel alive  
 
 
 <!---
